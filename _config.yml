@@ -11,14 +11,14 @@ github_repo: "https://github.com/jasoncaocjx/jasoncaocjx.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance."
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-github_username:    jasoncaocjx
+github_username:    JasonCaoCJX
 
 
 # Build settings
