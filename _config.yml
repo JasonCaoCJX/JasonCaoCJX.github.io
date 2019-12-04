@@ -19,7 +19,11 @@ sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in bot
 # SNS settings
 RSS: false
 github_username:    JasonCaoCJX
-wechat_username:    cjx664328667
+#jianshu_username:    jianshu_id 
+#zhihu_username:     username
+#facebook_username:  username
+#github_username:    username
+# weibo_username:   username
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -48,29 +52,29 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# Disqus（https://www.linkedin.com/company/disqus/）
+disqus_username: 曹嘉欣
 
 # Gitalk
-# gitalk:
-#   enable: true    #是否开启Gitalk评论
-#   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-#   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-#   repo: qiubaiying.github.io    #仓库名称
-#   owner: qiubaiying    #github用户名
-#   admin: qiubaiying
-#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 18268ca0721f7253d478                           #生成的clientID
+  clientSecret: 2eb90b76414b74c7eec5097a65b358764821d707    #生成的clientSecret
+  repo: BlogComment   #仓库名称
+  owner: JasonCaoCJX    #github用户名
+  admin: JasonCaoCJX
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 5bd436b07ec171bf296a85e79a5f98f8
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
