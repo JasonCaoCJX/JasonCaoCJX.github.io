@@ -91,10 +91,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "TJNU",
+        href: "http://www.tjnu.edu.cn/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Sweetwater",
+        href: "https://www.sweetwater.com/"
+    },{
+        title: "萤火虫",
+        href: "https://www.yhcjcw.com/"
     }
 ]
