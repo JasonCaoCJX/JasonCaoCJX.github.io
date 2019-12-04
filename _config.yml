@@ -52,8 +52,8 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://www.linkedin.com/company/disqus/）
-disqus_username: 曹嘉欣
+# Disqus（https://www.disqus.com/）
+# disqus_username: username
 
 # Gitalk
 gitalk:
