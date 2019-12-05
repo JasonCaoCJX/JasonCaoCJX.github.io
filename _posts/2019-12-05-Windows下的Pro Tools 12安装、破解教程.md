@@ -39,20 +39,27 @@ ProTools软件内部算法精良，对音频、MIDI、视频都可以很好地�
 双击打开【Pro Tools HD v12.3】文件夹里的【Setup.exe】
 ![Pro tools HD v12.3安装程序](http://m.qpic.cn/psb?/V10DFE6N3uScTK/YYjeALUbo3EZE48E8HnIeSimfO8BG122OHbwIqOZhOo!/b/dLgAAAAAAAAA&bo=5gMOAwAAAAADB8o!&rf=viewer_4)
 
-1、安装主程序，点击【1.*Required Install Pro Tools HD 12.3.1】->【确定】
--> 等待安装程序打开 -> 安装 ->按照要求重启
+1、安装主程序，点击【1.*Required Install Pro Tools HD 12.3.1】
+   
+   等待安装程序打开，安装完成后按照要求重启。
 
-2、安装插件，点击【2.*Required Install Patched Avid Effects】->【Extract】-> 等待安装完成
+2、安装插件，点击【2.*Required Install Patched Avid Effects】
 
-3、安装Pace驱动，点击【5.Required Install Patched Avid Effects】->【Next】->【Yes】
-->【Install】-> 等待安装完成 -> 安装完成后点击【信任】->按照要求重启
+   等待安装完成
+
+3、安装Pace驱动，点击【5.Required Install Patched Avid Effects】
+   
+   安装完成后点击【信任】，并按照要求重启
 
 ### 安装效果器
 双击打开【AIR.Creative.FX.Collection.Plus.WIN-AudioUTOPiA】文件夹里的【Setup.exe】
 ![效果器安装程序](http://a4.qpic.cn/psb?/V10DFE6N3uScTK/fUsISxFVpwtaShnuz1qKTr1nbdLXJ9jOQReefW55nH0!/b/dFMBAAAAAAAA&ek=1&kp=1&pt=0&bo=fgJ6AQAAAAADJwU!&tl=1&vuin=664328667&tm=1575504000&sce=60-2-2&rf=viewer_4)
 
-1、安装效果器，点击【Next】-> 全选->【Next】
--> 分别为32位和64位都选择自己想要安装到的路径 ->【Install】->等待安装完成
+1、安装效果器，选项全选
+
+   分别为32位和64位都选择自己想要安装到的路径
+   
+   等待安装完成
 
 ### 安装完成
 至此，Pro Tools HD v12.3就可以正常使用了。
