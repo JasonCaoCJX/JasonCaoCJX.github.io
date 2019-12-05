@@ -21,6 +21,7 @@ ProTools是Digidesign公司出品的工作站软件系统，最早只是在苹�
 ProTools软件内部算法精良，对音频、MIDI、视频都可以很好地支持。
 
 由于其算法的不同，单就音频方面来讲，其回放和录音的音质，
+
 是大大优于我们现在PC上流行的各种音频软件的。
 
 # 教程
@@ -29,7 +30,12 @@ ProTools软件内部算法精良，对音频、MIDI、视频都可以很好地�
 ### 资源下载
 下载protools安装、破解等相关文件：[Pro Tools HD v12.3](https://pan.baidu.com/s/18-2FMp3RbsvibD2fDeNpKg) ，提取码：yd6z
 
-解压后应该有三个文件：【Pro Tools HD v12.3.rar】、【QuickTime.exe】、
+解压后应该有三个文件：
+
+【Pro Tools HD v12.3.rar】
+
+【QuickTime.exe】
+
 【AIR.Creative.FX.Collection.Plus.WIN-AudioUTOPiA】
 
 ### 安装QuickTime
@@ -41,15 +47,15 @@ ProTools软件内部算法精良，对音频、MIDI、视频都可以很好地�
 
 1、安装主程序，点击【1.*Required Install Pro Tools HD 12.3.1】
    
-   等待安装程序打开，安装完成后按照要求重启。
+&ensp;等待安装程序打开，安装完成后按照要求重启。
 
 2、安装插件，点击【2.*Required Install Patched Avid Effects】
 
-   等待安装完成
+&ensp;等待安装完成
 
 3、安装Pace驱动，点击【5.Required Install Patched Avid Effects】
    
-   安装完成后点击【信任】，并按照要求重启
+&ensp;安装完成后点击【信任】，并按照要求重启
 
 ### 安装效果器
 双击打开【AIR.Creative.FX.Collection.Plus.WIN-AudioUTOPiA】文件夹里的【Setup.exe】
@@ -57,9 +63,9 @@ ProTools软件内部算法精良，对音频、MIDI、视频都可以很好地�
 
 1、安装效果器，选项全选
 
-   分别为32位和64位都选择自己想要安装到的路径
+&ensp;分别为32位和64位都选择自己想要安装到的路径
    
-   等待安装完成
+&ensp;等待安装完成
 
 ### 安装完成
 至此，Pro Tools HD v12.3就可以正常使用了。
