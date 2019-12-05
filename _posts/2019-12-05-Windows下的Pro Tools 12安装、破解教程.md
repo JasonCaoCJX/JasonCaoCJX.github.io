@@ -10,7 +10,6 @@ tags:
     - Blog
     - Record
     - Tutorial
-    - Protools
 ---
 
 > Pro Tools 12安装、破解教程
