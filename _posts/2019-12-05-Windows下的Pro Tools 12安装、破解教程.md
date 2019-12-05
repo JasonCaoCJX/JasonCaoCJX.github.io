@@ -47,11 +47,11 @@ ProTools软件内部算法精良，对音频、MIDI、视频都可以很好地�
 
 1、安装主程序，点击【1.*Required Install Pro Tools HD 12.3.1】
    
-&emsp;等待安装程序打开，安装完成后按照要求重启。
+&emsp;&emsp;等待安装程序打开，安装完成后按照要求重启。
 
 2、安装插件，点击【2.*Required Install Patched Avid Effects】
 
-&emsp;等待安装完成
+    等待安装完成
 
 3、安装Pace驱动，点击【5.Required Install Patched Avid Effects】
    
