@@ -2,7 +2,7 @@
 layout:     post
 title:      Windows下的Pro Tools 12安装、破解教程
 subtitle:   教你如何安装并破解protools12
-date:       2019-12-4
+date:       2019-12-5
 author:     BY Jason Cao
 header-img: img/post-bg-micphone.jpg
 catalog: true
