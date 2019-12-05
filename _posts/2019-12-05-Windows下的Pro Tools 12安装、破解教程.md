@@ -53,7 +53,7 @@ ProTools软件内部算法精良，对音频、MIDI、视频都可以很好地�
 
     等待安装完成
 
-3.安装Pace驱动，点击【5.Required Install Patched Avid Effects】
+3. 安装Pace驱动，点击【5.Required Install Patched Avid Effects】
 
     安装完成后点击【信任】，并按照要求重启
 
