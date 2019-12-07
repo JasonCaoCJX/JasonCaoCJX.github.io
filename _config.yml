@@ -19,11 +19,12 @@ sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in bot
 # SNS settings
 RSS: false
 github_username:    JasonCaoCJX
+weibo_username:   JasonCaoCJX
 #jianshu_username:    jianshu_id 
 #zhihu_username:     username
 #facebook_username:  username
 #github_username:    username
-# weibo_username:   username
+
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
