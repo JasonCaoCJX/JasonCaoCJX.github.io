@@ -73,6 +73,6 @@ ProTools软件内部算法精良，对音频、MIDI、视频都可以很好地�
 
 # 问题修复
 如果你没有外置声卡，或者电脑里没有ASIO4LL虚拟声卡，可能会遇到以下问题
-![bug]http://m.qpic.cn/psc?/V10DFE6N3uScTK/2aGbA7qLSN6GeC6g0ZsuRTva7YFzYbrDa6NI3XaEFM1rcXxPinhcb64CLyGHa*H38988D.5legt5ewF5nCXTDYA8wDWlyKLjrI4jVkceb28!/b&bo=IgLGAAAAAAADB8Q!&rf=viewer_4
+![bug](http://m.qpic.cn/psc?/V10DFE6N3uScTK/2aGbA7qLSN6GeC6g0ZsuRTva7YFzYbrDa6NI3XaEFM1rcXxPinhcb64CLyGHa*H38988D.5legt5ewF5nCXTDYA8wDWlyKLjrI4jVkceb28!/b&bo=IgLGAAAAAAADB8Q!&rf=viewer_4)
 
 解决方法：下载并安装文件夹里的ASIO4LL虚拟声卡驱动程序即可
