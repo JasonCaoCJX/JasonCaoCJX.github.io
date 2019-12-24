@@ -37,7 +37,7 @@ ProTools软件内部算法精良，对音频、MIDI、视频都可以很好地�
 
 【AIR.Creative.FX.Collection.Plus.WIN-AudioUTOPiA】
 
-【ASIO4ALL_2_8_English】
+【ASIO4ALL_2.10_Soft32】
 
 ### 安装QuickTime
 双击打开【QuickTime.exe】进行安装
