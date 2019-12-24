@@ -27,7 +27,7 @@ ProTools软件内部算法精良，对音频、MIDI、视频都可以很好地�
 该破解软件仅供学习和交流，更建议去官网支持正版。
 
 ### 资源下载
-下载protools安装、破解等相关文件：[Pro Tools HD v12.3](https://pan.baidu.com/s/18-2FMp3RbsvibD2fDeNpKg) ，提取码：yd6z
+下载protools安装、破解等相关文件：[Pro Tools HD v12.3](https://pan.baidu.com/s/1h8JvP_omIHFt4Fctw9__Yg ) ，提取码：vhpd 
 
 解压后应该有三个文件：
 
@@ -36,6 +36,8 @@ ProTools软件内部算法精良，对音频、MIDI、视频都可以很好地�
 【QuickTime.exe】
 
 【AIR.Creative.FX.Collection.Plus.WIN-AudioUTOPiA】
+
+【ASIO4ALL_2_8_English】
 
 ### 安装QuickTime
 双击打开【QuickTime.exe】进行安装
@@ -68,3 +70,9 @@ ProTools软件内部算法精良，对音频、MIDI、视频都可以很好地�
 
 ### 安装完成
 至此，Pro Tools HD v12.3就可以正常使用了。
+
+# 问题修复
+如果你没有外置声卡，或者电脑里没有ASIO4LL虚拟声卡，可能会遇到以下问题
+![bug]http://m.qpic.cn/psc?/V10DFE6N3uScTK/2aGbA7qLSN6GeC6g0ZsuRTva7YFzYbrDa6NI3XaEFM1rcXxPinhcb64CLyGHa*H38988D.5legt5ewF5nCXTDYA8wDWlyKLjrI4jVkceb28!/b&bo=IgLGAAAAAAADB8Q!&rf=viewer_4
+
+解决方法：下载并安装文件夹里的ASIO4LL虚拟声卡驱动程序即可
