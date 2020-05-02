@@ -4,7 +4,7 @@ SEOTitle: 曹嘉欣的博客 | JC Blog
 header-img: img/post-bg-desk.jpg
 email: JasonCaoCJX@outlook.com
 description: "Love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance."
-keyword: "JC, JC Blog, 曹嘉欣的博客, JasonCao, JasoncCaoCJX, 曹嘉欣, recordist, programmer,software engineer"
+keyword: "JC, JC Blog, 曹嘉欣的博客, JasonCao, JasoncCaoCJX, 曹嘉欣, 前端, python, html, css, js"
 url: "http://jasoncaocjx.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jasoncaocjx/jasoncaocjx.github.io.git" # you code repository
